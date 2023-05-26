@@ -1,0 +1,33 @@
+Connecté !
+Tentative de connexion
+Tentative de connexion
+Connecté !
+[2023-07-07 01:07:26]Tentative de connexion
+[2023-07-07 01:07:26]Connecté !
+[2023-08-07 01:08:29]Tentative de connexion
+[2023-08-07 01:08:29]Connecté !
+[2023-08-07 13:08:58]Tentative de connexion
+[2023-08-07 13:08:58]Connecté !
+Tentative de connexion
+Connecté !
+Deconnecté !
+DEBUT EXECUTE
+Microsoft Windows [version 10.0.22621.1555]
+(c) Microsoft Corporation. Tous droits r‚serv‚s.
+
+C:\Users\adrie\Desktop\Code\ServeurClient>dir
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 9AE1-7C74
+
+ R‚pertoire de C:\Users\adrie\Desktop\Code\ServeurClient
+
+07/05/2023  13:09    <DIR>          .
+06/05/2023  17:16    <DIR>          ..
+07/05/2023  13:12               515 history.log
+06/05/2023  20:17             2ÿ499 nbactions.xml
+06/05/2023  20:29             1ÿ645 pom.xml
+06/05/2023  17:18    <DIR>          src
+07/05/2023  13:09    <DIR>          target
+               3 fichier(s)            4ÿ659 octets
+               4 R‚p(s)  501ÿ590ÿ196ÿ224 octets libres
+
